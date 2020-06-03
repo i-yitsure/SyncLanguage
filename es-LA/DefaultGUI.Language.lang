@@ -1,0 +1,16 @@
+[es-LA]
+UI_DISPLAY=Mostrar interfaz
+UI_TIPS_BOTIRC=BotIRC
+UI_TIPS_BOTIRC_PASS=contraseña de IRC
+UI_TIPS_STATUS=Estado
+UI_TIPS_DANMAKU=LiveID
+UI_TIPS_OSU_IRC=osu!Chat
+UI_TIPS_TARGET_IRC=Dirección de IRC
+UI_BOTTON_START=Comenzar
+UI_BOTTON_STOP=Detener
+UI_BOTTON_LOGIN_DANMAKU=Inicio de sesión de origen
+UI_BOTTON_SWITCH_CON=Cambiar a la Interfaz de CMD
+UI_BOTTON_EXIT=Salir
+UI_TIPS_LIVE_ID=LiveID
+UI_TIPS_LIVE_SOURCE=Origen
+UI_INFO_RESTART_REQ=Cambio de el origen en vivo se aplica después de reiniciar la sincronización. ¿Desea Reiniciar ahora?

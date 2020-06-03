@@ -1,0 +1,15 @@
+[en-US]
+BUTTON_OPEN=Abriir
+BUTTON_BROWSE=Vistazo
+BUTTON_FONT=Fuente
+BUTTON_COLOR=Color
+WINDOW_TITLE=Config
+WINDOW_TITLE_REQUIRE_RESTART=Algunas configuraciones se reinician para que surtan efecto
+BUTTON_SAVE=Salver
+LABEL_SAVED=Salvado!
+LABEL_SAVED_SAVING=Salvando...
+TRAY_HIDE_SHOW=Ocultar/Mostrar
+TRAY_CONFIG=Config
+TRAY_OPEN_SYNC_FOLDER=Carpeta de Sync
+TRAY_EXIT=Salir
+COMMAND_LINE_HINT=[ConfigGUI]Ingrese "config" para abrir el panel de configuración.

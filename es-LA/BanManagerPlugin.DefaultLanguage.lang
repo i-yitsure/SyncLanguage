@@ -1,0 +1,8 @@
+[es-LA]
+LANG_HELP_BAN=ban user/id/regex , el usuario sera baneado, mensaje va a ser reenviado a IRC
+LANG_HELP_UNBAN=unban user/id/regex , usuario desbloqueado
+LANG_HELP_WHITELIST=add user/id/regex añadir a los usuarios a la whitelist para que pueden enviar un mensaje a IRC 
+LANG_HELP_REMOVE_WHITELIST=remove user/id/regex eliminar a el usuario de la whitelist
+LANG_HELP_ACCESS=establecer el nivel de acceso para mensajes en irc
+LANG_HELP_LIST=lista de privilegiados (whitelist) o lista de baneados (banlist)
+LANG_ERR_COMMAND=command error
